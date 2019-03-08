@@ -1,0 +1,11 @@
+/home/alan/work/graduate/kbtu-vjudge/bin/Debug/netcoreapp2.2/kbtu-vjudge.deps.json
+/home/alan/work/graduate/kbtu-vjudge/bin/Debug/netcoreapp2.2/kbtu-vjudge.runtimeconfig.json
+/home/alan/work/graduate/kbtu-vjudge/bin/Debug/netcoreapp2.2/kbtu-vjudge.runtimeconfig.dev.json
+/home/alan/work/graduate/kbtu-vjudge/bin/Debug/netcoreapp2.2/kbtu-vjudge.dll
+/home/alan/work/graduate/kbtu-vjudge/bin/Debug/netcoreapp2.2/kbtu-vjudge.pdb
+/home/alan/work/graduate/kbtu-vjudge/obj/Debug/netcoreapp2.2/kbtu-vjudge.csprojAssemblyReference.cache
+/home/alan/work/graduate/kbtu-vjudge/obj/Debug/netcoreapp2.2/kbtu-vjudge.csproj.CoreCompileInputs.cache
+/home/alan/work/graduate/kbtu-vjudge/obj/Debug/netcoreapp2.2/kbtu-vjudge.AssemblyInfoInputs.cache
+/home/alan/work/graduate/kbtu-vjudge/obj/Debug/netcoreapp2.2/kbtu-vjudge.AssemblyInfo.cs
+/home/alan/work/graduate/kbtu-vjudge/obj/Debug/netcoreapp2.2/kbtu-vjudge.dll
+/home/alan/work/graduate/kbtu-vjudge/obj/Debug/netcoreapp2.2/kbtu-vjudge.pdb
